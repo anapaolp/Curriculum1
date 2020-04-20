@@ -1,0 +1,63 @@
+.brand-logo img{
+	height: 65px;
+}
+
+body{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main{
+   flex: 1 0 auto;
+   background-color: #FFAAA5;
+   font-family: 'Fira Sans', sans-serif;
+   color: white;
+}
+
+.materialboxed{
+	width: 100%;
+}
+
+h3{
+	font-family: 'Raleway', sans-serif;
+	font-size: 60px;
+}
+
+.nav-wrapper a, .sidenav a{
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	color: white;
+}
+
+.collapsible{
+	font-family: 'Fira Sans'; 
+	color: black;
+}
+
+h1{
+	font-family: 'Fira Sans';
+	font-size: 60px;
+	color: #FF7272;
+}
+
+p{
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+}
+
+img{
+	align-items: center;
+}
+
+label{
+	font-family: 'Raleway', sans-serif;
+	font-size: 24px;
+	color: #FF1E56;
+}
+
+fieldset{
+	font-family: 'Raleway', sans-serif;
+	font-size: 24px;
+	color: white;
+}
